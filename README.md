@@ -1,6 +1,6 @@
 <h2>Welcome!</h2>
 
-I'm a 19 year old high school student in Italy.
+I'm a 19 year old Computer Science student at University of Milano-Bicocca.
 - I’m currently learning Algorithms and Data Structures
 - 🇮🇹 Competitive programmer
 - Open to collaborate on Java projects!
@@ -26,8 +26,8 @@ These are the technologies I have some level of experience with:
 <h2>How to reach me</h2>
 
 - E-mail: <em>flaben05@gmail.com</em>
-- Telegram:  <em>@XeemOG</em>
-- Discord: <em>armistices<em>
+- Telegram:  <em>@Flev05</em>
+- Discord: <em>flev05<em>
 
 
 <!--
