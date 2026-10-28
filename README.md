@@ -2,10 +2,9 @@
 
 Computer Science student at the University of Milan-Bicocca.
 
-
 [LinkedIn](https://www.linkedin.com/in/flavio-benini/) · [Email](mailto:flaben05@gmail.com)
 
-## Selected work
+## Projects
 
 ### [News Swing Trader](https://github.com/Flev05/news-swing-trader)
 
@@ -31,4 +30,4 @@ I administer a tournament management platform supporting leagues, group stages a
 
 ## Beyond the repositories
 
-CyberChallenge CTF finalist (2025). Mentee at LeadTheFuture and Superhero Valley.
+Italian Informatics Olympiad (OII), CyberChallenge CTF finalist. Mentee at LeadTheFuture and Superhero Valley.
