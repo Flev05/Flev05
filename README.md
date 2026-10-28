@@ -1,42 +1,34 @@
-<h2>Welcome!</h2>
+# Flavio Benini
 
-I'm a 19 year old Computer Science student at University of Milano-Bicocca.
-- I’m currently learning Algorithms and Data Structures
-- 🇮🇹 Competitive programmer
-- Open to collaborate on Java projects!
-- Interested in CyberSecurity and Artificial Intelligence fields.
-
-<h2>Programming Languages</h2>
-These are the programming languages I have experience in:
-
-- Java
-- C#
-- C/C++
-- PHP
-- JavaScript
-
-<h2>Tecnologies</h2>
-These are the technologies I have some level of experience with:
-
-- SpringBoot
-- SQL
-- Angular
-- Node.js
-
-<h2>How to reach me</h2>
-
-- E-mail: <em>flaben05@gmail.com</em>
-- Telegram:  <em>@Flev05</em>
-- Discord: <em>flev05<em>
+Computer Science student at the University of Milan-Bicocca.
 
 
-<!--
-**Flev05/Flev05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-- 🔭 I’m currently working on ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 📫 How to reach me: ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[LinkedIn](https://www.linkedin.com/in/flavio-benini/) · [Email](mailto:flaben05@gmail.com)
+
+## Selected work
+
+### [News Swing Trader](https://github.com/Flev05/news-swing-trader)
+
+A news-driven trading research project, currently focused on the ingestion backend: immutable news revisions, idempotent processing, transactional job admission and durable recovery after restarts.
+
+**Java · Spring Boot · PostgreSQL**  
+Local LLM integration is planned; inference and trading execution are not implemented yet.
+
+### [Single-Source Shortest Path](https://github.com/Flev05/Single-Source-Shortest-Path)
+
+Dijkstra's algorithm implemented in **Prolog and Common Lisp**, with custom min-heaps, graph representations and path reconstruction. Includes automated tests for both implementations.
+
+### [Tourney](https://github.com/Flev05/tourney-foosball)
+
+I administer a tournament management platform supporting leagues, group stages and knockout brackets. The repository contains the foosball application.
+
+[Live platform](https://tourney.erebus-soft.com/TourneyBE/#/)
+
+## Experience
+
+- **Uber · Basemap team, Amsterdam · 2025** — Apache Spark pipelines integrating OpenStreetMap data into Uber's Unified Map Model, including stop signs and lane counts.
+- **Cefriel · Milan · 2023–2024** — Backend development with Java and Spring Boot, REST APIs and Angular interfaces.
+
+## Beyond the repositories
+
+CyberChallenge CTF finalist (2025). Mentee at LeadTheFuture and Superhero Valley.
